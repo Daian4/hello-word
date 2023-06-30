@@ -1,4 +1,4 @@
-# hello-word
+# hello-world
 
 ## Primeiro exercício da Cubos Academy 
 
